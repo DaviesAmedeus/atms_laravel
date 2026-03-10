@@ -17,11 +17,17 @@
                 <h1>Highlights from different locations</h1>
             </div>
             <div class="row g-5">
-                <x-gallery-item imglink='assets/img/gallery/gallery-4.webp'  descbody='Showcasing ATMS services at Diamond Jubilee exhibition.'/>
+                <x-gallery-item imglink='assets/img/gallery/marvin.jpeg'  descbody='A Humble visit by Marvin from TELTONIKA(2026).'/>
+
+                <x-gallery-item imglink='assets/img/gallery/stc-meeting1.jpeg'  descbody='Showcasing our Services to STC. A construction company(2026).'/>
+
+                 <x-gallery-item imglink='assets/img/gallery/gallery-4.webp'  descbody='Showcasing ATMS services at Diamond Jubilee exhibition.'/>
+
+
                 <x-gallery-item imglink='assets/img/gallery/gallery-10.webp'  descbody='A Visit by WIALON Business Expert.'/>
 
                 <x-gallery-item imglink='assets/img/gallery/gallery-1.webp'  descbody='AES showcasing their surveying tools.'/>
-                <x-gallery-item imglink='assets/img/gallery/gallery-12.webp'  descbody='ATMS experts at Telematics Workshop Tanzania organized by partners and friends from Teltonika.'/>
+                <x-gallery-item imglink='assets/img/gallery/gallery-12.webp'  descbody='ATMS with TELTONIKA experts at Telematics Workshop Tanzania organized by partners and friends from Teltonika.'/>
                 <x-gallery-item imglink='assets/img/gallery/gallery-11.webp'  descbody='WIALON experts sharing top tips on fuel and fleet management.'/>
 
                 <x-gallery-item imglink='assets/img/gallery/gallery-13.webp'  descbody='HAIKA LYIMO, ATMS business development manager at Telematics Workshop event organized by WIALON friends and partners from Teltonika '/>
