@@ -17,6 +17,12 @@
                 <h1>Highlights from different locations</h1>
             </div>
             <div class="row g-5">
+                <x-gallery-item imglink='assets/img/gallery/edmund_at_erb.webp'  descbody='2026'/>
+
+                 <x-gallery-item imglink='assets/img/gallery/davies_viola.webp'  descbody='2026'/>
+
+                 <x-gallery-item imglink='assets/img/gallery/edmund at the meeting.webp'  descbody='2026'/>
+
                 <x-gallery-item imglink='assets/img/gallery/marvin.webp'  descbody='A Humble visit by Marvin from TELTONIKA(2026).'/>
 
                 <x-gallery-item imglink='assets/img/gallery/stc-meeting1.webp'  descbody='Showcasing our Services to STC. A construction company(2026).'/>
